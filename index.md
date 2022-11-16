@@ -6,7 +6,7 @@ description: Kevin's First GitHub Page
 
 [Sample Repository](https://github.com/ktjones01/sample)
 
-[![Sorting](https://img.youtube.com/vi/#####/0.jpg)](http://www.youtube.com/watch?v=#####)
+[![Sorting](https://img.youtube.com/vi/UmUiu59e17Q/0.jpg)](http://www.youtube.com/watch?v=UmUiu59e17Q)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
