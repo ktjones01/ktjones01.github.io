@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Kevin's Page
+description: Kevin's First GitHub Page
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
