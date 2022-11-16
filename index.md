@@ -3,6 +3,8 @@ title: Kevin's Page
 description: Kevin's First GitHub Page
 ---
 ![Clemson Paw!](\timeseries\clemsonPaw.png)
+
+[Sample Repository](https://github.com/ktjones01/sample)
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
