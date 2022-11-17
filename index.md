@@ -11,7 +11,7 @@ description: Kevin's First GitHub Page
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Time Series Work](./timeseries/index.md).
 
 There should be whitespace between paragraphs.
 
